@@ -57,10 +57,10 @@
 		|'size'|'3'|
 		|'startSocket'|'left'|
 		|'endSocket'|'left'|
-		|'startSocketGravity'|' 160, -80'|
-		|'endSocketGravity'|' 160, 80'|
+		|'startSocketGravity'|' -50, 70'|
+		|'endSocketGravity'|' 0, 80'|
 		|'dropShadow'|'true'|
-		|'middleLabel'|''|
+		|'middleLabel'|'Группа доступа'|
 		|'timeout'|'5000'|
 	Укажем группу доступа
 		И из выпадающего списка с именем "ГруппаДоступа" я выбираю по строке 'Поставщики'
